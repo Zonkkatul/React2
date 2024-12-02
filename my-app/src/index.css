@@ -19,6 +19,11 @@ body {
   gap: 15px; 
 }
 
+.home-btn {
+ font-size: 2em;
+ padding: 12px;
+}
+
 .item {
   background-color: white;
   border-radius: 8px;
